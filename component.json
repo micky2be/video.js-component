@@ -2,6 +2,6 @@
   "name": "video.js",
   "version": "4.4.1",
   "scripts": ["video.js"],
-  "styles": ["video-js.css"]
+  "styles": ["video-js.css"],
   "main": "video.js"
 }
