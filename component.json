@@ -1,5 +1,7 @@
 {
   "name": "video.js",
   "version": "4.4.0",
-  "main": ["video.js", "video-js.css"]
+  "scripts": ["video.js"],
+  "styles": ["video-js.css"]
+  "main": "video.js"
 }
